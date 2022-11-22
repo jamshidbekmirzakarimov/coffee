@@ -73,6 +73,10 @@ body {
 .site-header__nav-link:active {
   color: #333d4b;
 }
+
+.active{
+  color: #000;
+}
 /********************** Header styles end **********************/
 
 /********************** Main styles start **********************/

@@ -376,6 +376,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  margin-bottom: 88px;
 }
 .footer-logo {
   margin-right: 103px;

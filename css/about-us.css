@@ -79,3 +79,40 @@ body {
 }
 /********************** Header styles end **********************/
 
+/* main start */
+/* hero section start */
+
+.site-main {
+  background-color: #fefcf7;
+}
+.hero-section__wrapper {
+  background-image: url("../images/about-bg-color.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  border-radius: 10px;
+  padding-top: 137px;
+  padding-bottom: 137px;
+  padding-left: 85px;
+}
+
+.hero-section__title {
+  font-size: 40px;
+  line-height: 48px;
+  color: #fefcf7;
+  margin-bottom: 24px;
+  margin-top: 0;
+}
+
+.hero-section__desc {
+  width: 445px;
+  font-family: "Barlow";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #fefcf7;
+  margin: 0;
+}
+
+/* hero section end */
+
